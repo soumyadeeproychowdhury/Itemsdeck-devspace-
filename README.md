@@ -1,2 +1,4 @@
 # Itemsdeck-devspace-
-ppt
+The project covers problem statement-2 of FinTech Track 
+Developed using Python 
+
