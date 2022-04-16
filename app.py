@@ -34,6 +34,7 @@ def ItemDeck():
         selling_price=request.args.get('sp')
 
     else:
+        otp = 'product found below are the details'
         l=list()
         sum_s = 0
         sum_c=0
